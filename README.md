@@ -1,1 +1,1 @@
-# SQL-Python-PowerBI-Project
+# Sales & Product Analysis with Database and SQL
