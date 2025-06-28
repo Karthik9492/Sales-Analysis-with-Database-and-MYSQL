@@ -54,7 +54,7 @@ The analysis is performed on a relational database that includes the following k
 3.	Calculate running total of revenue by month.
 4.	Find the first and last product purchased by each customer.
 5.	Rank products by total profit within each subcategory.
-# Query Ouputs
+# Visual Outputs (Screenshots)
 
 1. <img width="376" alt="image" src="https://github.com/user-attachments/assets/b5f473ea-487a-40f8-a7ef-af34ffb877f8" />
 
@@ -64,6 +64,8 @@ The analysis is performed on a relational database that includes the following k
 
 4.<img width="449" alt="image" src="https://github.com/user-attachments/assets/ad45ab57-9e72-443d-9af2-4294f6cd0c05" />
 
-
+## 📌 How to Explore Queries 
+Clone the repo and view:
+- `.sql` files for full logic
 
 
